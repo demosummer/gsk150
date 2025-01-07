@@ -1,0 +1,10 @@
+2025-01-07 00:00:16.175  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : pull Task start
+2025-01-07 00:00:16.179  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : executeTaskId is 
+2025-01-07 00:00:16.179  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : start to pull new task
+2025-01-07 00:01:16.175  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : pull Task start
+2025-01-07 00:01:16.176  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : executeTaskId is 
+2025-01-07 00:01:16.176  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : start to pull new task
+2025-01-07 00:02:16.175  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : pull Task start
+2025-01-07 00:02:16.176  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : executeTaskId is 
+2025-01-07 00:02:16.176  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : start to pull new task
+2025-01-07 00:03:16.175  INFO 273 --- [scheduling-1] ai.meeting.svc.service.VideoTaskService  : pull Task start
